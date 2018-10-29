@@ -1,1 +1,1 @@
-# SW3
+# What is Redis?
