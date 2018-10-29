@@ -7,10 +7,11 @@ Redis is often referred as a *data structures* server.
 
 * For 32bit machine
 	* You can run a ~~64bit~~ 32bit *Redis* binary using:
-
-	% make 32bit
-
+```
+% make 32bit
+```
 # Link
 
 [Redis](https://redis.io)
+
 ---
